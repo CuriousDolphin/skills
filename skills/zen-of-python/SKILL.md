@@ -1,6 +1,6 @@
 ---
 name: zen-of-python
-description: Apply the Zen of Python (PEP 20) when writing or reviewing ANY Python code — full programs, scripts, functions, even one-liners. Use this skill every time the user asks for Python, whether or not they say "pythonic" or "clean code". Includes snippets, bug fixes, refactors, and code reviews. Also trigger on mentions of PEP 20, code style, or "is this good Python?". The bar is low: if it's Python, use this skill.
+description: Apply the Zen of Python (PEP 20) when writing or reviewing ANY Python code — full programs, scripts, functions, even one-liners. Use this skill every time the user asks for Python, whether or not they say "pythonic" or "clean code". Includes snippets, bug fixes, refactors, and code reviews. If it's Python, use this skill."
 ---
 
 # Zen of Python
