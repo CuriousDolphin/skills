@@ -1,0 +1,24 @@
+{
+  "name": "zen-of-python",
+  "description": "Improves Python code quality using PEP 20 (Zen of Python): clearer structure, readability, and maintainability. Guides writing and reviewing any Python — programs, scripts, functions, one-liners — plus snippets, bug fixes, refactors, and code reviews. Triggers on Python work, PEP 20, style, or “is this good Python?”.",
+  "license": "MIT",
+  "repository": "https://github.com/CuriousDolphin/skills",
+  "author": {
+    "name": "CuriousDolphin",
+    "email": "isnob46@gmail.com"
+  },
+  "keywords": [
+    "python",
+    "pep-20",
+    "zen-of-python",
+    "code-quality",
+    "code-review",
+    "readability",
+    "refactoring",
+    "style",
+    "pythonic",
+    "maintainability"
+  ],
+  "category": "code-quality",
+  "skills": ["./"]
+}

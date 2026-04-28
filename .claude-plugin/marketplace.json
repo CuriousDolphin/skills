@@ -1,0 +1,35 @@
+{
+  "name": "curious-dolphin-skills",
+  "owner": {
+    "name": "CuriousDolphin",
+    "email": "isnob46@gmail.com"
+  },
+  "metadata": {
+    "description": "Marketplace of Claude Code plugins focused on Python code quality: PEP 20 (Zen of Python) as a practical guide for cleaner, more readable, and more maintainable code when you write, refactor, or review."
+  },
+  "plugins": [
+    {
+      "name": "zen-of-python",
+      "source": "./skills/zen-of-python",
+      "description": "Improves Python code quality using PEP 20 (Zen of Python): clearer structure, readability, and maintainability. Guides writing and reviewing any Python — programs, scripts, functions, one-liners — plus snippets, bug fixes, refactors, and code reviews. Triggers on Python work, PEP 20, style, or “is this good Python?”.",
+      "license": "MIT",
+      "author": {
+        "name": "CuriousDolphin",
+        "email": "isnob46@gmail.com"
+      },
+      "category": "code-quality",
+      "keywords": [
+        "python",
+        "pep-20",
+        "zen-of-python",
+        "code-quality",
+        "code-review",
+        "readability",
+        "refactoring",
+        "style",
+        "pythonic",
+        "maintainability"
+      ]
+    }
+  ]
+}
